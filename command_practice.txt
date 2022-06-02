@@ -1,3 +1,6 @@
 git version 
-git --version
-git version 2.36.1
+git --versio
+
+username and emaiol configured
+user.name=Prathmesh
+user.email=prathmesh.bagul@klingelnberg.com
