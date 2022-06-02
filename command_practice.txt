@@ -1,6 +1,24 @@
 git version 
-git --versio
+git --version2.36.1
 
 username and emaiol configured
 user.name=Prathmesh
 user.email=prathmesh.bagul@klingelnberg.com
+ /////Committer: Bagul <prathmesh.Bagul@Klingelnberg.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+//////
+
+specific setting (username)
+$ git config user.name
+Prathmesh
+
+$ git config user.email
+prathmesh.bagul@klingelnberg.com
+
+to get help about command 
+git help
